@@ -15,6 +15,12 @@ Traditional deep learning methods for traffic forecasting typically rely on larg
   <b>Figure 1.</b> The model architecture of the proposed EAST framework.
 </p>
 
+<p align="center">
+  <img src="git/result.png" alt="EAST experimental result" width="900">
+  <br>
+  <b>Table 1.</b> The experimental result of EAST under full-shot, few-shot, and zero-shot learning.
+</p>
+
 ## Datasets 
 
 The dataset is located in `./dataset/NYC`.
